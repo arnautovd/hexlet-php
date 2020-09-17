@@ -1,0 +1,11 @@
+{
+    "name": "dima/hexlet-php",
+    "description": "some interesting stuff",
+    "authors": [
+        {
+            "name": "Dmitry Arnautov",
+            "email": "arnautov.dmitry2015@yandex.ru"
+        }
+    ],
+    "require": {}
+}
