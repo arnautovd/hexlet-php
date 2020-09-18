@@ -1,5 +1,11 @@
 {
     "name": "dima/hexlet-php",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+            
+        ]
+    },
     "description": "some interesting stuff",
     "authors": [
         {
@@ -7,5 +13,7 @@
             "email": "arnautov.dmitry2015@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.0"
+    }
 }
